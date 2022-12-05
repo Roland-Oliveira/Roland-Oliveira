@@ -3,11 +3,8 @@
 - 🔭 Hoje estudo para ser um Desenvolvedor Web
 - 🌱 Estudando PHP
 - 📫 Email para contacto: contatorolandoliveira@gmail.com
+ ##
 
-<div>
-<a href="https://github.com/Roland-Oliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="CSS_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
