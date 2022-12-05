@@ -1,4 +1,4 @@
-### Olá, Eu sou o Roland Oliveira
+### Olá eu sou o Roland Oliveira
 
 - 🔭 Hoje estudo para ser um Desenvolvedor Web
 - 🌱 Estudando PHP
