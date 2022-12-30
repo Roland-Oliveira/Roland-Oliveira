@@ -28,6 +28,6 @@
 
 </div>
 
-
+![Snake animation](https://github.com/Roland-Oliveira/Roland-Oliveira/blob/output/github-contribution-grid-snake.svg)
            
           
