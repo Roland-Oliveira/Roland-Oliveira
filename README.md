@@ -13,8 +13,10 @@
 <img align="center" alt="js_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="bootstrap_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="mysql_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="php_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <h3> Redes Sociais:
-<img align="center"  height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="php_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="center"  height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <h3> Redes Sociais:
+
           
 </h3>
 <a href="https://www.linkedin.com/in/roland-oliveira/"><img align="center" alt="Linkedin_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
