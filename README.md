@@ -27,8 +27,8 @@
  
 
 <div>
-<img  height="150em"  src="https://github-readme-stats.vercel.app/api?username=Roland-Oliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="150em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Oliveira&layout=compact&langs_count=16&theme=transparent"/>
+<img  height="190em"  src="https://github-readme-stats.vercel.app/api?username=Roland-Oliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="190em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Oliveira&layout=compact&langs_count=16&theme=transparent"/>
 
 </div>
 <br>
