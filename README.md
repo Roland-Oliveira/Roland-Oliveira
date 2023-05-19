@@ -1,7 +1,7 @@
 ### Olá eu sou o Roland Oliveira
 
 - 🔭 Hoje estudo para ser um Desenvolvedor Web
-- 🌱 Estudando PHP
+- 🌱 Estudando C#
 - 📫 Email para contacto: contatorolandoliveira@gmail.com
  ##
 
