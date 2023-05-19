@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estudo para ser um Desenvolvedor Web
 - 🌱 Estudando C#
-- 📫 Email para contacto: contatorolandoliveira@gmail.com
+- 📫 Email para contacto: rolandoliveira17@hotmail.com
  ##
 
 
