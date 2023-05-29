@@ -22,6 +22,7 @@
 <a href="https://www.linkedin.com/in/roland-oliveira/"><img align="center" alt="Linkedin_Icon" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   
  <hr>
+ ![Profile views](https://gpvc.arturio.dev/Roland-Oliveira)  
  </div>
  
  
